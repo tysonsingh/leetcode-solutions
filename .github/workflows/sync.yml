@@ -1,0 +1,25 @@
+name: Sync to Main Account
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Push to main account repo
+        env:
+          TOKEN: ${{ secrets.MAIN_GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "Rahul Kumar"
+          git config --global user.email "rahulkunder786@gmail.com"
+
+          git remote add target https://x-access-token:${TOKEN}@github.com/rahulkunder/leetcode-solutions.git
+
+          git push target main --force
