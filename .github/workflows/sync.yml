@@ -22,4 +22,4 @@ jobs:
 
           git remote add target https://x-access-token:${TOKEN}@github.com/rahulkunder/leetcode-solutions.git
 
-          git push target main --force
+          git push target HEAD:main --force
