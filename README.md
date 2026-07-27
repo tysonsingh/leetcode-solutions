@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tysonsingh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/tysonsingh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1260-shift-2d-grid](https://github.com/tysonsingh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tysonsingh/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tysonsingh/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tysonsingh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
