@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tysonsingh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0219-contains-duplicate-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/tysonsingh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/tysonsingh/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/tysonsingh/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tysonsingh/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tysonsingh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
