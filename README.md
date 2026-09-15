@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tysonsingh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/tysonsingh/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/tysonsingh/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tysonsingh/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tysonsingh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tysonsingh/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tysonsingh/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/tysonsingh/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tysonsingh/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tysonsingh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tysonsingh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
