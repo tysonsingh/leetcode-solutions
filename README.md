@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tysonsingh/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tysonsingh/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/tysonsingh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/tysonsingh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tysonsingh/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/tysonsingh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tysonsingh/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tysonsingh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
