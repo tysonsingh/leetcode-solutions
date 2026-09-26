@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/tysonsingh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tysonsingh/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tysonsingh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tysonsingh/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tysonsingh/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tysonsingh/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tysonsingh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tysonsingh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tysonsingh/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tysonsingh/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tysonsingh/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tysonsingh/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tysonsingh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/tysonsingh/leetcode-solutions/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/tysonsingh/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tysonsingh/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
