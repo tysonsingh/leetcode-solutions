@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tysonsingh/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tysonsingh/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/tysonsingh/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tysonsingh/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/tysonsingh/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tysonsingh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tysonsingh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/tysonsingh/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tysonsingh/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tysonsingh/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/tysonsingh/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/tysonsingh/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/tysonsingh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/tysonsingh/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
