@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tysonsingh/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tysonsingh/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tysonsingh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tysonsingh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tysonsingh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tysonsingh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tysonsingh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tysonsingh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tysonsingh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tysonsingh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tysonsingh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tysonsingh/leetcode-solutions/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/tysonsingh/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tysonsingh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
