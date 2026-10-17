@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tysonsingh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/tysonsingh/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/tysonsingh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/tysonsingh/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/tysonsingh/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tysonsingh/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
