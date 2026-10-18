@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/tysonsingh/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/tysonsingh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tysonsingh/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tysonsingh/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/tysonsingh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tysonsingh/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tysonsingh/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/tysonsingh/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tysonsingh/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tysonsingh/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
