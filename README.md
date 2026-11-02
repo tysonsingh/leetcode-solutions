@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tysonsingh/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/tysonsingh/leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tysonsingh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tysonsingh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/tysonsingh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tysonsingh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tysonsingh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tysonsingh/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tysonsingh/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tysonsingh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tysonsingh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/tysonsingh/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
